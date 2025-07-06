@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/kopalkaushiki/MyPortfolio/static/css/main.a05d83c5.css",
-    "main.js": "/kopalkaushiki/MyPortfolio/static/js/main.d3c5ded9.js",
-    "static/media/javahack.png": "/kopalkaushiki/MyPortfolio/static/media/javahack.1723b0e20df8a4454364.png",
-    "static/media/prabhakar.jpg": "/kopalkaushiki/MyPortfolio/static/media/prabhakar.91ce8efe3ec43c5ebb52.jpg",
-    "static/media/U13basket.jpg": "/kopalkaushiki/MyPortfolio/static/media/U13basket.ebaf7500ef7885115fa3.jpg",
-    "static/media/coursera.png": "/kopalkaushiki/MyPortfolio/static/media/coursera.58bfa469d596a7547d4a.png",
-    "static/media/foundathon.png": "/kopalkaushiki/MyPortfolio/static/media/foundathon.ca042cb95462722dd4d9.png",
-    "static/media/varanasi basketball.jpg": "/kopalkaushiki/MyPortfolio/static/media/varanasi basketball.0010547f5be6eacbb621.jpg",
-    "static/media/400m zone.jpg": "/kopalkaushiki/MyPortfolio/static/media/400m zone.61acb21df4ca951f05a6.jpg",
-    "static/media/800m zone.jpg": "/kopalkaushiki/MyPortfolio/static/media/800m zone.85de46e57812fac7fefa.jpg",
-    "static/media/aedtechImg.png": "/kopalkaushiki/MyPortfolio/static/media/aedtechImg.3efb30978b6fe9cf2708.png",
-    "static/media/agritech.jpg": "/kopalkaushiki/MyPortfolio/static/media/agritech.45645f96eb1f5f860244.jpg",
-    "static/media/Subject.png": "/kopalkaushiki/MyPortfolio/static/media/Subject.b783614c1812e8d7d77d.png",
-    "static/media/Java.png": "/kopalkaushiki/MyPortfolio/static/media/Java.3d30edbf39275f15d8f5.png",
-    "static/media/hackofduty.jpeg": "/kopalkaushiki/MyPortfolio/static/media/hackofduty.52e7e07b6ebdb8c7d636.jpeg",
-    "static/media/Kopal_dbms_course_certificate.jpeg": "/kopalkaushiki/MyPortfolio/static/media/Kopal_dbms_course_certificate.9dde7910416cbe31d20f.jpeg",
-    "static/media/askillconnectImg2.jpeg": "/kopalkaushiki/MyPortfolio/static/media/askillconnectImg2.1f27c515c1ff804339a6.jpeg",
-    "index.html": "/kopalkaushiki/MyPortfolio/index.html",
-    "main.a05d83c5.css.map": "/kopalkaushiki/MyPortfolio/static/css/main.a05d83c5.css.map",
-    "main.d3c5ded9.js.map": "/kopalkaushiki/MyPortfolio/static/js/main.d3c5ded9.js.map"
+    "main.css": "/MyPortfolio/static/css/main.a05d83c5.css",
+    "main.js": "/MyPortfolio/static/js/main.8f46f8f7.js",
+    "static/media/javahack.png": "/MyPortfolio/static/media/javahack.1723b0e20df8a4454364.png",
+    "static/media/prabhakar.jpg": "/MyPortfolio/static/media/prabhakar.91ce8efe3ec43c5ebb52.jpg",
+    "static/media/U13basket.jpg": "/MyPortfolio/static/media/U13basket.ebaf7500ef7885115fa3.jpg",
+    "static/media/coursera.png": "/MyPortfolio/static/media/coursera.58bfa469d596a7547d4a.png",
+    "static/media/foundathon.png": "/MyPortfolio/static/media/foundathon.ca042cb95462722dd4d9.png",
+    "static/media/varanasi basketball.jpg": "/MyPortfolio/static/media/varanasi basketball.0010547f5be6eacbb621.jpg",
+    "static/media/400m zone.jpg": "/MyPortfolio/static/media/400m zone.61acb21df4ca951f05a6.jpg",
+    "static/media/800m zone.jpg": "/MyPortfolio/static/media/800m zone.85de46e57812fac7fefa.jpg",
+    "static/media/aedtechImg.png": "/MyPortfolio/static/media/aedtechImg.3efb30978b6fe9cf2708.png",
+    "static/media/agritech.jpg": "/MyPortfolio/static/media/agritech.45645f96eb1f5f860244.jpg",
+    "static/media/Subject.png": "/MyPortfolio/static/media/Subject.b783614c1812e8d7d77d.png",
+    "static/media/Java.png": "/MyPortfolio/static/media/Java.3d30edbf39275f15d8f5.png",
+    "static/media/hackofduty.jpeg": "/MyPortfolio/static/media/hackofduty.52e7e07b6ebdb8c7d636.jpeg",
+    "static/media/Kopal_dbms_course_certificate.jpeg": "/MyPortfolio/static/media/Kopal_dbms_course_certificate.9dde7910416cbe31d20f.jpeg",
+    "static/media/askillconnectImg2.jpeg": "/MyPortfolio/static/media/askillconnectImg2.1f27c515c1ff804339a6.jpeg",
+    "index.html": "/MyPortfolio/index.html",
+    "main.a05d83c5.css.map": "/MyPortfolio/static/css/main.a05d83c5.css.map",
+    "main.8f46f8f7.js.map": "/MyPortfolio/static/js/main.8f46f8f7.js.map"
   },
   "entrypoints": [
     "static/css/main.a05d83c5.css",
-    "static/js/main.d3c5ded9.js"
+    "static/js/main.8f46f8f7.js"
   ]
 }
