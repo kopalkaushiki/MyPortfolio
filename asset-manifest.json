@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/MyPortfolio/static/css/main.a05d83c5.css",
-    "main.js": "/MyPortfolio/static/js/main.8f46f8f7.js",
+    "main.js": "/MyPortfolio/static/js/main.e6741ca2.js",
     "static/media/javahack.png": "/MyPortfolio/static/media/javahack.1723b0e20df8a4454364.png",
     "static/media/prabhakar.jpg": "/MyPortfolio/static/media/prabhakar.91ce8efe3ec43c5ebb52.jpg",
     "static/media/U13basket.jpg": "/MyPortfolio/static/media/U13basket.ebaf7500ef7885115fa3.jpg",
@@ -19,10 +19,10 @@
     "static/media/askillconnectImg2.jpeg": "/MyPortfolio/static/media/askillconnectImg2.1f27c515c1ff804339a6.jpeg",
     "index.html": "/MyPortfolio/index.html",
     "main.a05d83c5.css.map": "/MyPortfolio/static/css/main.a05d83c5.css.map",
-    "main.8f46f8f7.js.map": "/MyPortfolio/static/js/main.8f46f8f7.js.map"
+    "main.e6741ca2.js.map": "/MyPortfolio/static/js/main.e6741ca2.js.map"
   },
   "entrypoints": [
     "static/css/main.a05d83c5.css",
-    "static/js/main.8f46f8f7.js"
+    "static/js/main.e6741ca2.js"
   ]
 }
