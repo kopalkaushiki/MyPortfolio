@@ -1,0 +1,41 @@
+#aboutme {
+    overflow: hidden;
+    width: 100%;
+    max-width: 65rem;
+     box-sizing: border-box;   
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+    min-width: 250px;
+    
+}
+.aboutMe {
+    font-size: 8rem;
+    font-family: 'Bebas Neue', sans-serif;
+    font-weight: 800;
+    color: #c01033;
+    margin-top: 0rem;
+    min-width: 250px;
+    display: flex;
+    
+}
+.aboutPara {
+    font-size: 1.5rem;
+    max-width: 80%;              
+    min-width: 250px;       
+    display: flex;
+    padding: 4rem;
+    margin-left: 15rem auto;
+    margin-top: -1rem;
+    background: #c01033;
+    border-radius: 10px;
+}
+   
+
+.aboutsection {
+  word-break: break-word;
+}

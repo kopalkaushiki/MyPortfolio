@@ -1,0 +1,79 @@
+#projects {
+    overflow: hidden;
+    /*width: 100vw;*/
+    max-width: 85rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+      width: 100%;
+      box-sizing: border-box;
+}
+.projectHeading {
+    font-size: 8rem;
+    font-family: 'Bebas Neue', sans-serif;
+    font-weight: 800;
+    color: #c01033;
+    margin-top: 5rem;
+}
+.projects {
+    margin: 1.5rem;
+    /*width: 100vw;
+    flex-wrap: wrap;
+    justify-content: center;
+    display: flex;
+    max-width: 80%;*/
+    text-align: left;
+    gap: 1rem;
+       display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        
+}
+.project {
+                 
+    /*min-width: 250px;*/         
+    display: flex;
+    flex-direction: column;
+    margin: 1rem 0;
+    margin-bottom: 0;
+    padding: 1rem 0.5rem;
+    border-radius: 2rem;
+    background: #c01033;
+    /*max-width: 60rem;*/
+       max-width: 300px;
+       flex: 1 1 300px;
+       box-sizing: border-box;
+}
+.ProjectImg{
+    object-fit: cover;
+    height: 11rem;
+    /*width: 15rem;*/
+      width: 100%;
+    margin-right: 2rem;
+    margin-left: 2px;
+    display: flex;
+    border-radius: 30px;
+}
+.projectText {
+      
+    padding-right: 2rem;
+}
+.projectText p {
+  font-size: 1rem;
+  word-break: break-word;
+}
+.ProjectImg:hover {
+    opacity: 50%;
+    color:#c04860;
+}
+@media screen and (max-widht: 768px){
+    .ProjectImg {
+        height: 30vw;
+    }
+    .projectHeading {
+    font-size: 3rem;
+  }
+}

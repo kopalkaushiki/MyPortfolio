@@ -1,0 +1,76 @@
+#certificates {
+    overflow: hidden;
+    width: 100vw;
+    max-width: 65rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+}
+
+
+.cocertificates {
+    font-weight: 400;
+    font-size: 1rem;
+    max-width: 51rem;
+    padding: 0 2rem;
+    
+}
+
+.certs {
+  margin: 1.5rem;
+  width: 100vw;
+  
+  max-width: 80%;
+  text-align: left;
+  display: flex;
+  flex-wrap: wrap;         
+  justify-content: center; 
+  gap: 1rem;  
+      
+}
+
+.cert {
+  width: 100%;              
+  min-width: 250px;       
+  display: flex;
+  margin: 1rem 0;
+  margin-bottom: 0;
+  padding: 1rem 1rem;
+  border-radius: 2rem;
+  background: #c01033;
+  
+}
+
+.certImg {
+    object-fit: cover;
+    /*height: 3rem;
+    width: 3rem;*/
+    margin-right: 1rem;
+    margin-left: 2px;
+    transition: transform 0.3s ease-in-out;
+    border-radius: 5px;
+}
+.certText>p {
+    font-size: 1rem;
+    padding-left: 2px;
+    
+}
+
+.certHeading  {
+    font-size: 8rem;
+    font-family: 'Bebas Neue', sans-serif;
+    font-weight: 800;
+    color: #c01033;
+    margin-top: 5rem;
+}
+.certImg:hover{
+    transform: scale(1.2);
+}
+@media screen and (max-width: 500px){
+    .certHeading{
+        font-size: 6rem;
+    }
+}
