@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/MyPortfolio/static/css/main.cb258871.css",
-    "main.js": "/MyPortfolio/static/js/main.b71b8a5b.js",
+    "main.css": "/MyPortfolio/static/css/main.fef73bed.css",
+    "main.js": "/MyPortfolio/static/js/main.6543aff7.js",
     "static/media/javahack.png": "/MyPortfolio/static/media/javahack.1723b0e20df8a4454364.png",
     "static/media/prabhakar.jpg": "/MyPortfolio/static/media/prabhakar.91ce8efe3ec43c5ebb52.jpg",
     "static/media/U13basket.jpg": "/MyPortfolio/static/media/U13basket.ebaf7500ef7885115fa3.jpg",
@@ -18,11 +18,11 @@
     "static/media/Kopal_dbms_course_certificate.jpeg": "/MyPortfolio/static/media/Kopal_dbms_course_certificate.9dde7910416cbe31d20f.jpeg",
     "static/media/askillconnectImg2.jpeg": "/MyPortfolio/static/media/askillconnectImg2.1f27c515c1ff804339a6.jpeg",
     "index.html": "/MyPortfolio/index.html",
-    "main.cb258871.css.map": "/MyPortfolio/static/css/main.cb258871.css.map",
-    "main.b71b8a5b.js.map": "/MyPortfolio/static/js/main.b71b8a5b.js.map"
+    "main.fef73bed.css.map": "/MyPortfolio/static/css/main.fef73bed.css.map",
+    "main.6543aff7.js.map": "/MyPortfolio/static/js/main.6543aff7.js.map"
   },
   "entrypoints": [
-    "static/css/main.cb258871.css",
-    "static/js/main.b71b8a5b.js"
+    "static/css/main.fef73bed.css",
+    "static/js/main.6543aff7.js"
   ]
 }
