@@ -1,11 +1,11 @@
 import React from 'react'
 import './cert.css'
 import { motion } from 'framer-motion';
-import hackofduty from '../../assets/hackofduty.jpeg';
-import foundathon from '../../assets/foundathon.png';
+import awsaip from '../../assets/AWS_AIP.png';
+import awscp from '../../assets/AWS_CP.png';
 import coursera from '../../assets/coursera.png';
-import innovatix from '../../assets/javahack.png';
-import certdbms from '../../assets/Kopal_dbms_course_certificate.jpeg';
+import mozo from '../../assets/mozoHackWinners.jpeg';
+import resohack from '../../assets/Resonate_top10_hackathon.png';
 const Certificates =() => {
     return(
         <section id='certificates'>
@@ -23,23 +23,36 @@ const Certificates =() => {
             <div className="certs">
 
                 <div className="cert">
-                    <img src ={foundathon} alt=" " className="certImg"  />
+                    <img src ={awscp} alt=" " className="certImg"  />
                     <div className="certText">
-                        <h2>Foundathon- Hackathon+Ideathon</h2>
-                        <p>Ranked among the top 15 teams out of a total of 300+
-                        teams in this Ideathon+Hackathon</p>
+                        <h2>AWS Cloud Practitioner </h2>
                     </div>
                 </div>
 
                 <div className="cert ">
-                    <img src ={hackofduty} alt=" " className="certImg"  />
+                    <img src ={awsaip} alt=" " className="certImg"  />
                     <div className=" certText">
-                        <h2>Hack Of Duty</h2>
-                        <p> Hackathon Participation Certificate </p>
+                        <h2>AWS AI Practitioner</h2>
+                    </div>
+                </div>
+
+                <div className=" cert">
+                    <img src ={mozo} alt=" " className="certImg"  />
+                    <div className="certText">
+                        <h2>Hackathon Winners</h2>
+                        <p>Winners of this 48 hour Hackathon where 100+ teams participated</p>
                     </div>
                 </div>
                 
                 <div className=" cert">
+                    <img src ={resohack} alt=" " className="certImg"  />
+                    <div className="certText">
+                        <h2>Resonate Hackathon</h2>
+                        <p>Among the top 10 teams out of 200+ in this 24 hour hackathon </p>
+                    </div>
+                </div>
+               
+               <div className=" cert">
                     <img src ={coursera} alt=" " className="certImg"  />
                     <div className=" certText">
                         <h2>Coursera Certification</h2>
@@ -47,21 +60,6 @@ const Certificates =() => {
                             Programming in C++</p>
                     </div>
                 </div>
-                <div className=" cert">
-                    <img src ={innovatix} alt=" " className="certImg"  />
-                    <div className="certText">
-                        <h2>Innovatix'25</h2>
-                        <p>Hackathon Participation Certificate</p>
-                    </div>
-                </div>
-                <div className=" cert">
-                    <img src ={certdbms} alt=" " className="certImg"  />
-                    <div className="certText">
-                        <h2>DBMS Course Certification</h2>
-                        <p> DBMS Course - Master the Fundamentals and Advanced Concepts</p>
-                    </div>
-                </div>
-               
              </div>
  
         </section>

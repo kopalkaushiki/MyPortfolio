@@ -1,6 +1,6 @@
 import React from 'react';
 import './intro.css';
-import bg from '../../assets/Subject.png';
+import bg from '../../assets/kopal.png';
 import btnImg from '../../assets/hireme.png';
 import {Link} from 'react-scroll';
 import { motion } from 'framer-motion';
