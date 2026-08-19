@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/MyPortfolio/static/css/main.c80eb36d.css",
-    "main.js": "/MyPortfolio/static/js/main.d040feae.js",
-    "static/media/javahack.png": "/MyPortfolio/static/media/javahack.1723b0e20df8a4454364.png",
+    "main.css": "/MyPortfolio/static/css/main.a41755b6.css",
+    "main.js": "/MyPortfolio/static/js/main.529f9836.js",
+    "static/media/Resonate_top10_hackathon.png": "/MyPortfolio/static/media/Resonate_top10_hackathon.e68da0b53304d852478e.png",
+    "static/media/kopal.png": "/MyPortfolio/static/media/kopal.89682f965a6d35f5a78f.png",
     "static/media/prabhakar.jpg": "/MyPortfolio/static/media/prabhakar.91ce8efe3ec43c5ebb52.jpg",
     "static/media/U13basket.jpg": "/MyPortfolio/static/media/U13basket.ebaf7500ef7885115fa3.jpg",
     "static/media/coursera.png": "/MyPortfolio/static/media/coursera.58bfa469d596a7547d4a.png",
-    "static/media/foundathon.png": "/MyPortfolio/static/media/foundathon.ca042cb95462722dd4d9.png",
     "static/media/varanasi basketball.jpg": "/MyPortfolio/static/media/varanasi basketball.0010547f5be6eacbb621.jpg",
     "static/media/400m zone.jpg": "/MyPortfolio/static/media/400m zone.61acb21df4ca951f05a6.jpg",
     "static/media/800m zone.jpg": "/MyPortfolio/static/media/800m zone.85de46e57812fac7fefa.jpg",
     "static/media/aedtechImg.png": "/MyPortfolio/static/media/aedtechImg.3efb30978b6fe9cf2708.png",
     "static/media/agritech.jpg": "/MyPortfolio/static/media/agritech.45645f96eb1f5f860244.jpg",
-    "static/media/Subject.png": "/MyPortfolio/static/media/Subject.b783614c1812e8d7d77d.png",
+    "static/media/AWS_CP.png": "/MyPortfolio/static/media/AWS_CP.294cb09e794de5368f50.png",
+    "static/media/mozoHackWinners.jpeg": "/MyPortfolio/static/media/mozoHackWinners.829e034d48d8e8247eb6.jpeg",
     "static/media/Java.png": "/MyPortfolio/static/media/Java.3d30edbf39275f15d8f5.png",
-    "static/media/hackofduty.jpeg": "/MyPortfolio/static/media/hackofduty.52e7e07b6ebdb8c7d636.jpeg",
-    "static/media/Kopal_dbms_course_certificate.jpeg": "/MyPortfolio/static/media/Kopal_dbms_course_certificate.9dde7910416cbe31d20f.jpeg",
+    "static/media/AWS_AIP.png": "/MyPortfolio/static/media/AWS_AIP.2b70348b8d035723a6fe.png",
     "static/media/askillconnectImg2.jpeg": "/MyPortfolio/static/media/askillconnectImg2.1f27c515c1ff804339a6.jpeg",
     "index.html": "/MyPortfolio/index.html",
-    "main.c80eb36d.css.map": "/MyPortfolio/static/css/main.c80eb36d.css.map",
-    "main.d040feae.js.map": "/MyPortfolio/static/js/main.d040feae.js.map"
+    "main.a41755b6.css.map": "/MyPortfolio/static/css/main.a41755b6.css.map",
+    "main.529f9836.js.map": "/MyPortfolio/static/js/main.529f9836.js.map"
   },
   "entrypoints": [
-    "static/css/main.c80eb36d.css",
-    "static/js/main.d040feae.js"
+    "static/css/main.a41755b6.css",
+    "static/js/main.529f9836.js"
   ]
 }
