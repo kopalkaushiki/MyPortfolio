@@ -27,8 +27,6 @@ const ExtraCurricular =() => {
                             <p>Singer | Song Writer | Producer in the making</p>
                             <img src={prabhakarImg} alt=" " className=" extraCurImg"/>
                             
-                            <h3></h3>
-                            
                         </div>
                     </div>
                     <div className="extracur">

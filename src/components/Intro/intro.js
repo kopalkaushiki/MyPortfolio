@@ -17,7 +17,7 @@ const Intro =() => {
                 WELCOME TO MY PORTFOLIO!
             </motion.div>
             <motion.div className="introContent"
-                initial={{ x: -400, opacity: 0 }}    
+                initial={{ x: -100, opacity: 0 }}    
                 whileInView={{ x: 0, opacity: 1 }}   
                 transition={{ duration: 1, delay: 0.5 }}         
                 > 
